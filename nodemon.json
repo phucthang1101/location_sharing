@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER": "place_sharing_app",
+        "DB_PASSWORD": "thang012345",
+        "DB_NAME": "place_sharing_mern",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
